@@ -19,5 +19,13 @@
 		]
 	},
 	"author": "JeongHun Kang <asata@teamsf.co.kr>",
-	"license": "MIT"
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/asata/react-native-naver-font.git"
+	},
+	"bugs": {
+		"url": "https://github.com/asata/react-native-naver-font/issues"
+	},
+	"homepage": "https://github.com/asata/react-native-naver-font#readme"
 }
