@@ -1,0 +1,23 @@
+{
+	"name": "react-native-naver-font",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"react-native",
+		"naver",
+		"font",
+		"nanum",
+		"square"
+	],
+	"rnpm": {
+		"assets": [
+			"Fonts"
+		]
+	},
+	"author": "JeongHun Kang <asata@teamsf.co.kr>",
+	"license": "MIT"
+}
